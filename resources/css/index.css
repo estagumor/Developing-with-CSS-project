@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-image: url("../pattern.webp");
+    font-size: 6em;
+    font-weight: bold;
+    color: khaki;
+}
+
+h2 {
+    color: white;
+    font-size: 2em;
+}
+
+.brushes-title {
+    background-color: lightgreen;
+}
+
+.frames-title {
+    background-color: lightcoral;
+}
+
+.paint-title {
+    background-color: lightskyblue;
+}
+
+.blue-text {
+    color: blue;
+    font-weight: bold;
+}
